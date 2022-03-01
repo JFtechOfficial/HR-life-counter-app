@@ -49,11 +49,11 @@ features                                  :
 
   - title                                 : Keep track of life totals
     description                           : The life total of each player is available at a glace, change your own. Using multiple devices you can use the life total calculator and you have access to combat/healing/gold pool counters.
-    fontawesome_icon_name                 : plus-minus
+    fontawesome_icon_name                 : plus
 
   - title                                 : Keep track of campaign progress
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed. (multidevice-only)
-    fontawesome_icon_name                 : list-check
+    description                           : Save the progress your hero has made to easly continue your campaign next time. (multidevice-only)
+    fontawesome_icon_name                 : list
   
   - title                                 : Keep track of your collection
     description                           : See all the regular and promo sets that have been published, check the ones you own.
@@ -90,7 +90,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#EE4444"
+link_color                                : "#ee4444"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -99,7 +99,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#EE4444"
+feature_icons_foreground_color            : "#ee4444"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
