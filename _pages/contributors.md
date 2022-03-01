@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contributors
+include_in_header: false
+---
+
 **Development**
 
 *   [JF tech](https://github.com/JFtechOfficial)
