@@ -10,7 +10,7 @@ playstore_link                            : https://github.com/JFtechOfficial   
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : /assets/icon_android.png                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : HR Life Counter                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A companion app for the physical card game
@@ -44,11 +44,11 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Randomizers!
-    description                           : Spice up your games with per-player random assingments of characters, ancestries, team, role. First player badge is also randomly assigned. (multidevice-only)
+    description                           : Spice up your games with per-player random assingments of characters, ancestries, team, role. First player badge is also assigned. (multidevice-only)
     fontawesome_icon_name                 : sync
 
   - title                                 : Keep track of life totals
-    description                           : The life total of each player is available at a glace, change your own. Using multiple devices you can use the life total calculator and you have access to combat/healing/gold pool counters.
+    description                           : Life total of each player at a glace. When using multiple devices you can access the life total calculator and the additional combat/healing/gold pool counters.
     fontawesome_icon_name                 : plus
 
   - title                                 : Keep track of campaign progress
@@ -68,7 +68,7 @@ features                                  :
     fontawesome_icon_name                 : book
     
   - title                                 : Use it everywhere for free
-    description                           : The app is free and your private data is never harvested for money. You don't need a data plan to host or join a multidevice game since they are hosted locally.
+    description                           : You don't need a data plan to host or join a multidevice game since they are hosted locally.
     fontawesome_icon_name                 : peace
 
   - title                                 : # New Feature Title
