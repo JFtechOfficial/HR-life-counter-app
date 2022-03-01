@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : HR Life Counter                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -7,69 +7,69 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://github.com/JFtechOfficial         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_name                                  : HR Life Counter                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : A companion app for the physical card game
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
+your_name                                 : JF tech                              
+your_link                                 : https://github.com/JFtechOfficial                   
+your_city                                 : Rome                                
+email_address                             : jftech@outlook.it
+facebook_username                         : JF tech                                          
+instagram_username                        : jftechofficial
+twitter_username                          : JFtechOfficial
+github_username                           : JFtechOfficial
+youtube_username                          : JF tech
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : One or more devices
+    description                           : Start a simple game using a single device at the center of the table, or host a game and have every other player join with their device.
     fontawesome_icon_name                 : mobile
+    
+  - title                                 : Designed for Hero Realms
+    description                           : Support for different game modes, characters, bosses and ancestries allows automatic calculation of starting health. (multidevice-only)
+    fontawesome_icon_name                 : magic
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Randomizers!
+    description                           : Spice up your games with per-player random assingments of characters, ancestries, team, role. First player badge is also randomly assigned. (multidevice-only)
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Keep track of life totals
+    description                           : The life total of each player is available at a glace, change your own. Using multiple devices you can use the life total calculator and you have access to combat/healing/gold pool counters.
+    fontawesome_icon_name                 : plus-minus
+
+  - title                                 : Keep track of campaign progress
+    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed. (multidevice-only)
+    fontawesome_icon_name                 : list-check
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Keep track of your collection
+    description                           : See all the regular and promo sets that have been published, check the ones you own.
     fontawesome_icon_name                 : info-circle
+
+  - title                                 : Get stats about your games
+    description                           : Improve your plays by looking at your statistics from past games. 
+    fontawesome_icon_name                 : chart-line
+
+  - title                                 : Access rulebooks
+    description                           : Pick a game set and browse the official rulebook. You can even search for specific words.
+    fontawesome_icon_name                 : book
+    
+  - title                                 : Use it everywhere for free
+    description                           : The app is free and your private data is never harvested for money. You don't need a data plan to host or join a multidevice game since they are hosted locally.
+    fontawesome_icon_name                 : peace
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -90,7 +90,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#EE4444"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -99,7 +99,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#EE4444"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
