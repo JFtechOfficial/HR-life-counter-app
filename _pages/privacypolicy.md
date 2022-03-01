@@ -4,9 +4,6 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-Feb 22 2022
-
 **Privacy Policy**
 
 Gianluca Galli built the HR Life Counter app as a Free app. This SERVICE is provided by Gianluca Galli at no cost and is intended for use as is.
