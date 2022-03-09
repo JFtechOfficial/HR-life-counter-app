@@ -27,11 +27,11 @@ The videos and screenshots must have one of the following resolutions:
 - 828x1792
 - 1125x2436
 - 1242x2688
--->
+
 
 ## 🎁 Contributing
-Please see [CONTRIBUTING.md](./CONTRIBUTING.md).
-
+Please see [CONTRIBUTING](./CONTRIBUTING.md).
+-->
 ## 💵 Support Me!
  [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/Y8Y0FW3V)
 
