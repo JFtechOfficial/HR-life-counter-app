@@ -1,5 +1,5 @@
 <a href="https://jftechofficial.github.io/HR-life-counter-app/" ><img src="https://github.com/JFtechOfficial/HR-life-counter-app/blob/master/assets/icon_android.png" align="right"  width="15%" height="15%" /> </a>
-# Landing page sites for HR Life Counter mobile app.
+# HR Life Counter mobile app - Landing page.
 **A companion app for the physical card game**
 
 
