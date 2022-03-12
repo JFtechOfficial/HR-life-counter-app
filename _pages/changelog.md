@@ -36,14 +36,7 @@ Abnormal and formidable against much the before well improper more spent far her
 
 ________
 <br>
--->
 
-### `Initial Release`
-# **Version 1.0.0**
-Added Simple game counter with number of players and seat layout selection. Added Host/Join local game with support for game modes from base game, per-player randomizers, automatic initial health, health counter and calculator, pool counters and player customization. Added digital rulebooks (web and pdf) with search feature. Added Collection tracker
-
-<br>
-<!--
 ## **Version 1.1**
 Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
@@ -67,3 +60,9 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 
 <br>
 -->
+
+### `Initial Release`
+# **Version 1.0.0**
+Added Simple game counter with number of players and seat layout selection. Added Host/Join local game with support for game modes from base game, per-player randomizers, automatic initial health, health counter and calculator, pool counters and player customization. Added digital rulebooks (web and pdf) with search feature. Added Collection tracker
+
+<br>
