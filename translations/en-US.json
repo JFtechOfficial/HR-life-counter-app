@@ -1,0 +1,470 @@
+{
+  "appSettings": "App Settings",
+  "appSupportMailSubject": "HR Life Counter - Help and Feedback",
+  "appSupportMailBodyIssue": "Describe the issue: ",
+  "appSupportMailBodyVersion": "\n\nApp version: ",
+  "appSupportMailBodyOS": "\nOS version: ",
+  "appSupportMailBodyDevice": "\nDevice: ",
+
+  "comingSoonTitle": "Coming Soon",
+  "comingSoonDescription": "This feature is still being developed and will be released as soon as possible.",
+  "comingSoonUnderstand": "Ok",
+
+  "lightBlue": "Light Blue",
+  "red": "Red",
+  "green": "Green",
+  "orange": "Orange",
+  "purple": "Purple",
+  "indigo": "Indigo",
+
+  "heroRealmsBaseSet": "Hero Realms",
+  "dungeonsBaseSet": "Base Set #2",
+
+  "clericCharacter": "Cleric",
+  "fighterCharacter": "Fighter",
+  "rangerCharacter": "Ranger",
+  "thiefCharacter": "Thief",
+  "wizardCharacter": "Wizard",
+
+  "dragonBossDeck": "Dragon",
+  "lichBossDeck": "Lich",
+
+  "theRuinOfThandarRoTCampaign": "The Ruin of Thandar",
+  "theLostVillageRoTCampaign": "The Lost Village",
+  "wateryGravesRoTCampaign": "Watery Graves",
+
+  "ancestry": "Ancestry",
+
+  "journeysConquest": "Conquest",
+  "journeysDiscovery": "Discovery",
+  "journeysHunters": "Hunters",
+  "journeysTravelers": "Travelers",
+
+  "alchemistCharacter": "Alchemist",
+  "barbarianCharacter": "Barbarian",
+  "druidCharacter": "Druid",
+  "martialArtistCharacter": "Martial Artist",
+  "necromancerCharacter": "Necromancer",
+
+  "dungeonsOfThandarRoTCampaign": "Dungeons of Thandar",
+
+  "adventureBoxPromo": "Adventure Box",
+  "bggStorePromo": "BGG Store",
+  "kickstarter1Promo": "Kickstarter #1",
+  "kickstarter2Promo": "Kickstarter #2",
+  "kickstarter3Promo": "Kickstarter #3",
+
+
+  "baseSets": "Base Sets",
+  "charactersPack1": "Characters Pack #1",
+  "bossDecks": "Boss Decks",
+  "theRuinOfThandar": "The Thandar Arc",
+  "journeys": "Journeys",
+  "charactersPack2": "Characters Pack #2",
+  "promos": "Promos",
+
+
+  "clericName": "Cleric",
+  "clericAbility1": "Minor Resurrect \u2460",
+  "clericAbility2": "Lesser Resurrect \u2461",
+  "clericAbility3": "Resurrect \u2462",
+  "clericAbility4a": "Battle Resurrect \u2463",
+  "clericAbility4b": "Holy Resurrect \u2463",
+  "clericAbility5a": "Mass Resurrect \u2464",
+  "clericAbility5b": "Righteous Resurrect \u2464",
+  "clericAbility5c": "Divine Resurrect \u2464",
+  "clericSkill1": "Bless \u2460",
+  "clericSkill2a": "Bless of Iron \u2461",
+  "clericSkill2b": "Bless of Heart \u2461",
+  "clericSkill3a": "Bless of Steel \u2462",
+  "clericSkill3b": "Bless the Flock \u2462",
+  "clericSkill3c": "Bless of Soul \u2462",
+  "clericHealthUpgrade1": "+7 \u2460",
+  "clericHealthUpgrade2": "+14 \u2461",
+  "clericTreasure1": "Veteran Follower",
+  "clericTreasure2": "Redeemed Ruinos",
+  "clericTreasure3": "Everburning Candle",
+  "clericTreasure4": "Brightstar Shield",
+
+
+  "fighterName": "Fighter",
+  "fighterAbility1": "Precision Blow \u2460",
+  "fighterAbility2": "Powerful Blow \u2461",
+  "fighterAbility3": "Crushing Blow \u2462",
+  "fighterAbility4a": "Sweeping Blow \u2463",
+  "fighterAbility4b": "Smashing Blow \u2463",
+  "fighterAbility5a": "Whirling Blow \u2464",
+  "fighterAbility5b": "Mighty Blow \u2464",
+  "fighterAbility5c": "Devastating Blow \u2464",
+  "fighterSkill1": "Shoulder Bash \u2460",
+  "fighterSkill2a": "Knock Back \u2461",
+  "fighterSkill2b": "Shoulder Smash \u2461",
+  "fighterSkill3a": "Knock down \u2462",
+  "fighterSkill3b": "Group Tackle \u2462",
+  "fighterSkill3c": "Shoulder Crush \u2462",
+  "fighterHealthUpgrade1": "+9 \u2460",
+  "fighterHealthUpgrade2": "+18 \u2461",
+  "fighterTreasure1": "Seasoned Shield Bearer",
+  "fighterTreasure2": "Double-Bladed Axe",
+  "fighterTreasure3": "Hand Scythe",
+  "fighterTreasure4": "Jagged Spear",
+
+
+  "rangerName": "Ranger",
+  "rangerAbility1": "Steady Shot \u2460",
+  "rangerAbility2": "Well Placed Shot \u2461",
+  "rangerAbility3": "Headshot \u2462",
+  "rangerAbility4a": "Quickshot \u2463",
+  "rangerAbility4b": "Twin Shot \u2463",
+  "rangerAbility5a": "Snapshot \u2464",
+  "rangerAbility5b": "Longshot \u2464",
+  "rangerAbility5c": "Triple Shot \u2464",
+  "rangerSkill1": "Track \u2460",
+  "rangerSkill2a": "Fast Track \u2461",
+  "rangerSkill2b": "Careful Track \u2461",
+  "rangerSkill3a": "Instinctive Track \u2462",
+  "rangerSkill3b": "Relentless Track \u2462",
+  "rangerSkill3c": "Flawless Track \u2462",
+  "rangerHealthUpgrade1": "+8 \u2460",
+  "rangerHealthUpgrade2": "+16 \u2461",
+  "rangerTreasure1": "Honed Black Arrow",
+  "rangerTreasure2": "Light Crossbow",
+  "rangerTreasure3": "Snake Pet",
+  "rangerTreasure4": "Unending Quiver",
+
+
+  "thiefName": "Thief",
+  "thiefAbility1": "Pilfer \u2460",
+  "thiefAbility2": "Theft \u2461",
+  "thiefAbility3": "Heist \u2462",
+  "thiefAbility4a": "Timely Heist \u2463",
+  "thiefAbility4b": "Skillful Heist \u2463",
+  "thiefAbility5a": "Practiced Heist \u2464",
+  "thiefAbility5b": "Smooth Heist \u2464",
+  "thiefAbility5c": "Masterly Heist \u2464",
+  "thiefSkill1": "Pick Pocket \u2460",
+  "thiefSkill2a": "Sleight Of Hand \u2461",
+  "thiefSkill2b": "Swipe \u2461",
+  "thiefSkill3a": "Misdirection \u2462",
+  "thiefSkill3b": "Distracted Exchange \u2462",
+  "thiefSkill3c": "Lift \u2462",
+  "thiefHealthUpgrade1": "+6 \u2460",
+  "thiefHealthUpgrade2": "+12 \u2461",
+  "thiefTreasure1": "Keen Throwing Knife",
+  "thiefTreasure2": "Sacrificial Dagger",
+  "thiefTreasure3": "Enchanted Garrote",
+  "thiefTreasure4": "Knife Belt",
+
+  "wizardName": "Wizard",
+  "wizardAbility1": "Flame Burst \u2460",
+  "wizardAbility2": "Fire Blast \u2461",
+  "wizardAbility3": "Fireball \u2462",
+  "wizardAbility4a": "Rolling Fireball \u2463",
+  "wizardAbility4b": "Scorching Fireball \u2463",
+  "wizardAbility5a": "Barreling Fireball \u2464",
+  "wizardAbility5b": "Explosive Fireball \u2464",
+  "wizardAbility5c": "Searing Fireball \u2464",
+  "wizardSkill1": "Channel \u2460",
+  "wizardSkill2a": "Deep Channel \u2461",
+  "wizardSkill2b": "Calm Channel \u2461",
+  "wizardSkill3a": "Soul Channel \u2462",
+  "wizardSkill3b": "Pure Channel \u2462",
+  "wizardSkill3c": "Serene Channel \u2462",
+  "wizardHealthUpgrade1": "+5 \u2460",
+  "wizardHealthUpgrade2": "+10 \u2461",
+  "wizardTreasure1": "Blazing Staff",
+  "wizardTreasure2": "Serpentine Staff",
+  "wizardTreasure3": "Silverskull Amulet",
+  "wizardTreasure4": "Arcane Wand",
+
+
+  "humanName": "Human",
+
+  "dwarfName": "Dwarf",
+
+  "elfName": "Elf",
+
+  "ogreName": "Ogre",
+
+  "orcName": "Orc",
+
+  "smallfolkName": "Smallfolk",
+
+  "halfDemonName": "Half-Demon",
+
+
+  "team": "Team",
+  "teamA": "Team A",
+  "teamB": "Team B",
+
+
+  "commander": "Commander",
+  "emperor": "Emperor",
+
+
+  "none": "None",
+
+
+  "save": "Save",
+
+
+  "host": "host",
+
+
+  "sync": "Sync",
+  "quit": "Quit",
+
+
+  "share": "Share",
+  "download": "Download",
+  "joinMyParty": "Join my party",
+  "on": "on",
+
+
+  "random": "Random",
+
+
+  "introScreenSkip": "SKIP",
+  "introScreenNext": "NEXT",
+  "introScreenFinish": "FINISH",
+  "introScreen1Subtitle": "Your companion app for the physical card game",
+  "introScreen2Title": "Keep Track",
+  "introScreen2Subtitle": "You can keep track of your collection, \nyou can keep track of your campaign progress",
+  "introScreen3Title": "One Device",
+  "introScreen3Subtitle": "You can keep track of your life total sharing a single device...",
+  "introScreen4Title": "Multiple Devices",
+  "introScreen4Subtitle": "Or you can use one device per player. \nLet's start playing!",
+
+
+  "homeScreenTabItem": "Play",
+  "rulebooksTabItem": "Rulebooks",
+  "achievementTabItem": "Statistics",
+  "settingsTabItem": "Settings",
+
+
+  "locationPermission": "Multi-device features require location permission.",
+
+
+  "rulebooksScreenTitle": "Rulebooks",
+  "rulebooksScreenSubtitle": "Choose a rulebook:",
+  "baseGameRulebookTitle": "Hero Realms",
+  "baseGameRulebookSubtitle": "Base Game",
+  "rotRulebookTitle": "The Ruin of Thandar",
+  "rotRulebookSubtitle": "Campaign",
+  "lichBossRulebookTitle": "Lich",
+  "lichBossRulebookSubtitle": "Boss Deck",
+  "dragonBossRulebookTitle": "Dragon",
+  "dragonBossRulebookSubtitle": "Boss Deck",
+  "ancestryRulebookTitle": "Ancestry",
+  "ancestryRulebookSubtitle": "Ancestry Pack",
+  "questArtifactRulebookTitle": "Quests & Artefacts",
+  "questArtifactRulebookSubtitle": "Conquest & Discovery Packs",
+  "hydraRulebookTitle": "Hydra",
+  "hydraRulebookSubtitle": "Challenge Card",
+  "clarificationsRulebookTitle": "FAQs",
+  "clarificationsRulebookSubtitle": "Rules Updates and Clarifications",
+
+
+  "findHintText": "Find...",
+  "ofHintText": "of",
+  "noMatchesSearch": "No matches found",
+
+
+  "settingsScreenTitle": "Settings",
+  "settingsScreenSubtitle": "Game preferences & App info:",
+  "gameSetsSettings": "Game Sets",
+  "aboutHeroRealmsSettings": "About Hero Realms",
+  "shareThisAppSettings": "Share this App",
+  "rateThisAppSettings": "Rate this App",
+  "supportTheDevSettings": "Support the Developer",
+  "helpFeedbackSettings": "Help & Feedback",
+  "aboutThisAppSettings": "About this App",
+
+
+  "collectionScreenTitle": "Game Sets",
+  "collectionScreenSubtitle": "Select the game sets you own or play with:",
+  "collectionScreenCompletion": "Completion:",
+
+
+  "aboutMissionTitle": "Mission",
+  "aboutMissionSubtitle": "We love Hero Realms, that's why we've build HR Life Counter. Yet it doesn't end there. We have already more things planned. But first we want to hear your feedback. Please tell us what you like and what could be improved or changed. Our promise is to create your new favorite HR companion app.",
+  "aboutPlannedFeaturesTitle": "Planned Features",
+  "aboutPlannedFeaturesSubtitle": "Campaign support",
+  "aboutPlannedFeaturesSubtitle2": "Boss/Raid game mode",
+  "aboutPlannedFeaturesSubtitle3": "Challenge game mode",
+  "aboutPlannedFeaturesSubtitle4": "Native tablet support",
+  "aboutPlannedFeaturesSubtitle5": "Game stats & achievements",
+  "aboutPlannedFeaturesSubtitle6": "More languages",
+  "aboutLegalTitle": "Legal",
+  "aboutLegalSubtitle": "This app is an unofficial fan content not approved/endorsed by WWG.",
+  "aboutContributorsTitle": "Contributors",
+  "aboutContributorsLink": "/contributors",
+  "aboutPrivacyTitle": "Privacy Policy",
+  "aboutPrivacyLink": "/privacypolicy",
+  "aboutTermsTitle": "Terms & Conditions",
+  "aboutTermsLink": "/termsconditions",
+  "aboutChangelogTitle": "Changelog",
+  "aboutChangelogLink": "/changelog",
+  "aboutLicensesTitle": "Licenses",
+  "aboutLicensesLink": "/changelog",
+
+
+  "homeScreenTitle": "HR Life Counter",
+  "newGame": "New Game",
+  "resumeGame": "Resume Game",
+  "yourCampaigns": "Your Campaigns",
+
+
+  "playerSelectionScreenTitle": "Players",
+  "playerSelectionSubtitleMultiDevice": "Set number of players:",
+  "playerSelectionSubtitleOneDevice": "Set number of players:",
+
+
+  "layoutSelectionScreenTitle": "Layout",
+  "layoutSelectionScreenSubtitle": "Choose game layout:",
+  "start": "Start",
+
+
+  "unavailableGameSettings": "Advanced features (such as player customisation, randomizers, automatic starting health and health calculator) are supported only in Multi-device games.",
+  "partyNameGameSettings": "Party Name",
+  "gameModeGameSettings": "Game Mode",
+  "modifiersGameSettings": "Modifiers:",
+  "rulesGameSettings": "Rules",
+  "gameHistoryGameSettings": "Game History",
+  "gameResetGameSettings": "Reset Game",
+  "gameLeaveGameSettings": "Leave Game",
+
+
+  "gameTypeSelectionScreenTitle": "Device Mode",
+  "gameTypeSelectionScreenSubtitle": "Choose device mode:",
+  "newOneDeviceGame": "Simple Game",
+  "oneDeviceGameSubtitle": "On a single device",
+  "oneDeviceGameDescription": "Every player uses the same device to track their health",
+  "hostMultiDeviceGame": "Host Game",
+  "hostMultiDeviceGameSubtitle": "For multiple devices",
+  "hostMultiDeviceGameDescription": "Each player uses their own device to track their health. Customisation, randomizers and dedicated pool counters are available to every player. You are the host. No internet connection is needed",
+  "joinMultiDeviceGame": "Join Game",
+  "joinMultiDeviceGameSubtitle": "For multiple devices",
+  "joinMultiDeviceGameDescription": "Each player uses their own device to track their health. Customisation, randomizers and dedicated pool counters are available to every player. No internet connection is needed",
+  "nextGameType": "Next",
+
+
+  "gameModeSelectionScreenTitle": "Game Mode",
+  "gameModeSelectionScreenSubtitle": "Choose game mode:",
+  "readMoreGameMode": "Read more",
+
+
+  "freeForAllTitle": "Free-For-All",
+  "freeForAllSubtitle": "(default)",
+  "freeForAllDescription": "Anyone can attack anyone else. The last player standing, wins! If there are three or more players, the first player starts with 3 cards in their opening hand, the second player starts with 4 cards, and each other player starts with 5 cards.",
+  "hunterFBTitle": "Hunter",
+  "hunterFBSubtitle": "First Blood",
+  "hunterFBDescription": "Each player may only attack or target the player to their left, and may only attack or target the champions belonging to the players on their left and right. The game ends when a player is eliminated; the player to their right wins!",
+  "hunterLOSTitle": "Hunter",
+  "hunterLOSSubtitle": "Last One Standing",
+  "hunterLOSDescription": "Same as Hunter — First Blood, except when a player is eliminated the game continues. The person to the eliminated player’s right gains 10 health and draws a card. Last player standing, wins!",
+  "hydraTitle": "Hydra",
+  "hydraDescription": "Each two-player team begins the game with 75 health. All players on a team share a health score. Each individual player has their own personal deck, hand, discard pile and in-play zone. Each team takes a shared turn. Teammates may pool their Combat to stun Champions and/or pool their Gold to acquire cards from the Marketplace.",
+  "emperorTitle": "Emperor",
+  "emperorDescription": "Three-player teams composed by an Emperor and two Commanders on either side. Commanders may only attack or target the nearest enemy Commander and their champions. If that Commander is defeated, they may then attack and target the enemy Emperor and their champions. When an Emperor is defeated, their team loses the game!",
+  "bossRaidTitle": "Boss / Raid",
+  "bossRaidDescription": "One player playing a Boss deck or an Upgraded Character deck will battle against a team of 1-5 players. Each member of the team takes their turn one at a time, in clockwise order, then the Boss player takes a turn.",
+  "campaignTitle": "Campaign",
+  "campaignDescription": "In a Campaign there are multiple cooperative encounters against an evil Master. Each player chooses one of the Character Packs and will play as that character for all the Encounters. After each Encounter, you might find Treasure cards and/or improve your character.",
+  "challengeTitle": "Challenge",
+  "challengeDescription": "Challenge cards enable you to play solo or cooperatively against bosses in Hero Realms. They are tough fights, so you (or your team) may not win on the first try. It takes skill and a little luck to beat these big bads.",
+
+
+  "partyNamingScreenTitle": "Party Name",
+  "partyNamingScreenSubtitle": "Set party name:",
+  "partyNamingHint": "Your Party Name",
+
+
+  "discoveryScreenTitle": "Discover Lobby",
+  "discoveryScreenSubtitle": "Select lobby to join:",
+  "discoveryByHost": "by",
+  "searchingForHost": "searching for host",
+  "discoveryJoin": "Join",
+
+
+  "lobbyScreenTitle": "Game Lobby",
+  "lobbyScreenSubtitle": "modifiers:",
+  "lobbyGameSettings": "Game Settings",
+  "lobbyPlayerSettings": "Your Settings:",
+  "lobbyLoading": "loading",
+  "ready": "Ready",
+  "unready": "Unready",
+  "everyoneIsReady": "Everyone is ready",
+  "waitingForOtherPlayers": "Waiting for other players",
+  "waitingForHostToStart": "Waiting for host to start the game",
+  "startAnyways": "Start anyways",
+  "playerName": "Name:",
+  "playerColor": "Color:",
+  "playerCharacter": "Character:",
+  "playerAncestry": "Ancestry:",
+  "playerRole": "Role:",
+  "playerTeam": "Team:",
+
+
+  "colorSelectionScreenTitle": "Player Color",
+  "colorSelectionScreenSubtitle": "Set player color:",
+
+
+  "playerNamingScreenTitle": "Player Name",
+  "playerNamingScreenSubtitle": "Set player name:",
+  "playerNamingHint": "Your Name",
+
+
+  "characterSelectionScreenTitle": "Character",
+  "characterSelectionScreenSubtitle": "Choose your character:",
+
+
+  "ancestrySelectionScreenTitle": "Ancestry",
+  "ancestrySelectionScreenSubtitle": "Choose your ancestry:",
+
+
+  "roleSelectionScreenTitle": "Role",
+  "roleSelectionScreenSubtitle": "Choose your role:",
+
+
+  "teamSelectionScreenTitle": "Team",
+  "teamSelectionScreenSubtitle": "Choose your team:",
+
+
+  "endTurnTitle": "End Turn",
+  "setHealthTitle": "Set your Health:",
+
+
+  "cancel": "Cancel",
+
+  "gameResetAlertTitle": "Reset Game:",
+  "singleDeviceGameResetAlertDescription": "Resetting the game will cause every player to go back to starting health. Current changes to health scores will be lost.\n\n Are you sure you want to reset the game?",
+  "multiDeviceGameResetAlertDescription": "Resetting the game will cause every player to go back to starting health. Current changes to health scores will be lost.\n\n Are you sure you want to reset the game?",
+  "gameResetAlertAction": "Reset",
+
+  "gameLeaveAlertTitle": "Leave Game:",
+  "singleDeviceGameLeaveAlertDescription": "Leaving the game will bring you back to the home page. Current changes to health scores will be lost.\n\n Are you sure you want to leave the game?",
+  "multiDeviceGameLeaveAlertDescription": "Leaving the game will bring you back to the Game Lobby.\n\n Are you sure you want to leave the game?",
+  "multiDeviceGameHostLeaveAlertDescription": "Leaving the game will bring you back to the Game Lobby. Since you are the Host, the same will happen to every other player in the Party.\n\n Are you sure you want to leave the game?",
+  "gameLeaveAlertAction": "Leave",
+
+  "gameQuitAlertTitle": "Quit Game:",
+  "multiDeviceGameQuitAlertDescription": "Going back will quit the game for you.\n\n Are you sure you want to leave the game?",
+  "multiDeviceGameHostQuitAlertDescription": "Quitting the game will bring you back to the home page. Since you are the Host, every other player in the Party will be kicked.\n\n Are you sure you want to quit the game?",
+  "multiDeviceGameHostBackAlertDescription": "Going back will quit the game. Since you are the Host, every other player in the Party will be kicked.\n\n Are you sure you want to qiut the game?",
+
+  "gameQuitAlertAction": "Quit",
+
+  "endgameAlertTitle": "Endgame Triggered:",
+  "endgameAlertDescription": "Do you want to leave the game? (Since you are the Host, leaving the game will cause it to quit also for every other player in the Party).",
+  "endgamePlayAgainAlertAction": "Play Again",
+  "endgameIgnoreAlertAction": "Ignore",
+  "endgameLeaveAlertAction": "Leave",
+
+  "healthCalculationTitle": "Health:",
+  "healthCalculationAction": "Save",
+
+  "deleteCampaignAlertTitle": "Delete Campaign:",
+  "deleteCampaignAlertDescription": "If you delete the campaign on this device all character progress will be lost.\n Are you sure you want to delete the campaign?",
+  "deleteCampaignAlertAction": "Delete"
+}
