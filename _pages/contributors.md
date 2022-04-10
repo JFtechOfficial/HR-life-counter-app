@@ -4,9 +4,14 @@ title: Contributors
 include_in_header: false
 ---
 
-**Development**
+# Contributors
+
+## Development
 
 *   [JF tech](https://github.com/JFtechOfficial)
+
+## Translations
+you can participate in the translation [here](https://poeditor.com/join/project/D9ZI0pVIA1).
 
 **English Translation**
 
@@ -16,6 +21,6 @@ include_in_header: false
 
 *   [JF tech](https://github.com/JFtechOfficial)
 
-**Testing**
+## Testing
 
 *   [Hero Realms Italia](https://www.facebook.com/groups/2291519377753013/)
