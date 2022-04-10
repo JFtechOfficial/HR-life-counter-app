@@ -28,10 +28,14 @@ The videos and screenshots must have one of the following resolutions:
 - 1125x2436
 - 1242x2688
 
-
-## 🎁 Contributing
-Please see [CONTRIBUTING](./CONTRIBUTING.md).
 -->
+## 🎁 Contributing
+[Who contributed](./_pages/contributors.md)
+
+
+You can participate in the translation 
+[![Join Translation](https://img.shields.io/badge/POEditor-4bc51d.svg?label=Join%20Translation)](https://poeditor.com/join/project/D9ZI0pVIA1)
+
 ## 💵 Support Me!
  [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/Y8Y0FW3V)
 
