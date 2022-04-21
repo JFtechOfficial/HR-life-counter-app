@@ -280,6 +280,11 @@
   "helpFeedbackSettings": "Help & Feedback",
   "aboutThisAppSettings": "About this App",
 
+  "collectionOnboarding1ScreenTitle": "What matters to you",
+  "collectionOnboarding1ScreenSubtitle": "Select game sets now to have the most tailored experience",
+
+  "collectionOnboarding2ScreenTitle": "Ready to go!",
+  "collectionOnboarding2ScreenSubtitle": "You can always change your selection in the main settings",
 
   "collectionScreenTitle": "Game Sets",
   "collectionScreenSubtitle": "Select the game sets you own or play with:",
@@ -298,10 +303,15 @@
   "aboutLegalTitle": "Legal",
   "aboutLegalSubtitle": "This app is an unofficial fan content not approved/endorsed by WWG.",
   "aboutContributorsTitle": "Contributors",
+
   "aboutPrivacyTitle": "Privacy Policy",
+
   "aboutTermsTitle": "Terms & Conditions",
+
   "aboutChangelogTitle": "Changelog",
+
   "aboutLicensesTitle": "Licenses",
+
 
 
   "homeScreenTitle": "HR Life Counter",
@@ -386,7 +396,8 @@
   "lobbyScreenSubtitle": "modifiers:",
   "lobbyGameSettings": "Game Settings",
   "lobbyPlayerSettings": "Your Settings:",
-  "lobbyLoading": "loading",
+  "lobbyLoading": "Loading",
+  "lobbyConfiguring": "Configuring",
   "ready": "Ready",
   "unready": "Unready",
   "everyoneIsReady": "Everyone is ready",
@@ -439,7 +450,8 @@
 
   "gameLeaveAlertTitle": "Leave Game:",
   "singleDeviceGameLeaveAlertDescription": "Leaving the game will bring you back to the home page. Current changes to health scores will be lost.\n\n Are you sure you want to leave the game?",
-  "multiDeviceGameLeaveAlertDescription": "Leaving the game will bring you back to the Game Lobby.\n\n Are you sure you want to leave the game?",
+  "singleDeviceGameBackAlertDescription": "Going back will quit the game. Current changes to health scores will be lost.\n\n Are you sure you want to leave the game?",
+  "multiDeviceGameLeaveAlertDescription": "Leaving the game will bring you back to the home page quitting the game for only you.\n\n Are you sure you want to leave the game?",
   "multiDeviceGameHostLeaveAlertDescription": "Leaving the game will bring you back to the Game Lobby. Since you are the Host, the same will happen to every other player in the Party.\n\n Are you sure you want to leave the game?",
   "gameLeaveAlertAction": "Leave",
 
